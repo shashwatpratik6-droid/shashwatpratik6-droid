@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently exploring AI, technology, and ideas worth building.<br><br>🤝 Open to collaborating on AI projects, hackathons, startups, and open-source initiatives.<br><br>🧩 Looking for help with problem-solving, software development, and turning ideas into reality.<br><br>🌱 Currently learning Python, JavaScript, HTML, CSS, Artificial Intelligence, and Machine Learning.<br><br>💬 Ask me about AI, web development, technology, hackathons, entrepreneurship, and personal growth.<br><br>⚡ Fun fact:<br>🧠 Quiet mind.<br>✨ Living simply.<br>🚀 Learning → Building → Evolving.
+Currently exploring AI, technology, and ideas worth building.<br><br>Open to collaborating on AI projects, hackathons, startups, and open-source initiatives.<br><br>Looking for help with problem-solving, software development, and turning ideas into reality.<br><br>Currently learning Python, JavaScript, HTML, CSS, Artificial Intelligence, and Machine Learning.<br><br>Ask me about AI, web development, technology, hackathons, entrepreneurship, and personal growth.<br><br>⚡ Fun fact:<br>🧠 Quiet mind.<br>✨ Living simply.<br>🚀 Learning → Building → Evolving.
 
 
 ## 🌐 Socials:
